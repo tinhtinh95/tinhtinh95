@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Tina. I'm a Frontend Developer. 
 
 <!--
 **tinhtinh95/tinhtinh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
